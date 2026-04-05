@@ -1,0 +1,11 @@
+[project]
+name = "sky-segmentation-and-post-processing"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "opencv-python>=4.13.0.92",
+    "torch>=2.0",
+]
